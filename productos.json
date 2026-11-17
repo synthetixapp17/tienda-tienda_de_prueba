@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "business": {
+    "id": "tienda_de_prueba",
+    "name": "Tienda de Prueba",
+    "slogan": "La mejor",
+    "whatsapp": "12345678",
+    "colors": {
+      "primary": "#FF0000",
+      "accent": "#00FF00"
+    },
+    "logo": null
+  },
+  "products": [
+    {
+      "id": "prod1",
+      "name": "Hamburguesa",
+      "price": 5,
+      "stock": 10,
+      "currencyCode": "USD",
+      "image": null,
+      "variants": []
+    }
+  ]
+}
